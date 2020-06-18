@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/deploy-map-the-rewards/static/css/main.462b0bd9.chunk.css",
+    "main.js": "/deploy-map-the-rewards/static/js/main.416b4ea7.chunk.js",
+    "main.js.map": "/deploy-map-the-rewards/static/js/main.416b4ea7.chunk.js.map",
+    "runtime-main.js": "/deploy-map-the-rewards/static/js/runtime-main.84b5b9ba.js",
+    "runtime-main.js.map": "/deploy-map-the-rewards/static/js/runtime-main.84b5b9ba.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/deploy-map-the-rewards/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f1ce4928.chunk.js": "/deploy-map-the-rewards/static/js/2.f1ce4928.chunk.js",
+    "static/js/2.f1ce4928.chunk.js.map": "/deploy-map-the-rewards/static/js/2.f1ce4928.chunk.js.map",
+    "index.html": "/deploy-map-the-rewards/index.html",
+    "precache-manifest.a919bebe2ecf5f55da20cf62de6369ce.js": "/deploy-map-the-rewards/precache-manifest.a919bebe2ecf5f55da20cf62de6369ce.js",
+    "service-worker.js": "/deploy-map-the-rewards/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/deploy-map-the-rewards/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.462b0bd9.chunk.css.map": "/deploy-map-the-rewards/static/css/main.462b0bd9.chunk.css.map",
+    "static/js/2.f1ce4928.chunk.js.LICENSE.txt": "/deploy-map-the-rewards/static/js/2.f1ce4928.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84b5b9ba.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f1ce4928.chunk.js",
+    "static/css/main.462b0bd9.chunk.css",
+    "static/js/main.416b4ea7.chunk.js"
+  ]
+}
